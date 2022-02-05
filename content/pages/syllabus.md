@@ -31,17 +31,126 @@ David Pesetsky, course materials for 24.960 Syntactic Models, Spring 2006. MIT O
 Calendar
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | HPSG 1: How it works |
-| 2 | HPSG 2: Infinitival complementation/a-bar dependencies |
-| 3 | LFG: Basics |
-| 4 | LFG 2: The over all system, modern developments |
-| 5 | Student presentation festival: HPSG and LFG papers |
-| 6 | Non-derivational principles and parameters/minimalist grammars |
-| 7 | History of analyses of the English auxiliary verb system: Derivations to representations |
-| 8 | Standard theory to generative semantics |
-| 9 | Conditions |
-| 10 | Student presentation festival: Generative semantics/interpretive semantics/conditions papers |
-| 11 | The legacy of conditions: LFG, GPSG, and GB |
-| 12 | Simpler syntax?
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+HPSG 1: How it works
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+HPSG 2: Infinitival complementation/a-bar dependencies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+LFG: Basics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+LFG 2: The over all system, modern developments
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation festival: HPSG and LFG papers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Non-derivational principles and parameters/minimalist grammars
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+History of analyses of the English auxiliary verb system: Derivations to representations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Standard theory to generative semantics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Conditions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentation festival: Generative semantics/interpretive semantics/conditions papers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The legacy of conditions: LFG, GPSG, and GB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Simpler syntax?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
