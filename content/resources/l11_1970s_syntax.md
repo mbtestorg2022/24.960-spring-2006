@@ -4,6 +4,7 @@ description: 'Lecture notes about the making of the modern syntactic world and t
   legacy of conditions: LFG, GPSG, and GB.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-960-syntactic-models-spring-2006/138e33351ae5925309fc188394033087_l11_1970s_syntax.pdf
 file_type: application/pdf
+parent_uid: 54936944-addf-8629-7c85-fc89dccef285
 resourcetype: Document
 title: l11_1970s_syntax.pdf
 uid: 138e3335-1ae5-9253-09fc-188394033087

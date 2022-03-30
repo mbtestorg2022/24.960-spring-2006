@@ -5,6 +5,7 @@ description: Lecture notes about HPSG, infinitival complementation/a-bar depende
   verbs, binding theory, and long-distance dependencies.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-960-syntactic-models-spring-2006/b5984fbff1c7d7b394d0df6e8e7048ea_l02_hpsg2.pdf
 file_type: application/pdf
+parent_uid: 54936944-addf-8629-7c85-fc89dccef285
 resourcetype: Document
 title: l02_hpsg2.pdf
 uid: b5984fbf-f1c7-d7b3-94d0-df6e8e7048ea
